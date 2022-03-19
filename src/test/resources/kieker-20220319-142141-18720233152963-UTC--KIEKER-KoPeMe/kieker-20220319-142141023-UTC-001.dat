@@ -1,0 +1,12 @@
+$0;1647699700963958250;1.15.1;KIEKER-KoPeMe;reichelt-desktop;1;false;0;NANOSECONDS;0
+$0;1647699701024878966;1.15.1;KIEKER-KoPeMe;reichelt-desktop;1;false;0;NANOSECONDS;0
+$1;1647699701045122538;public new defaultpackage.NormalDependency.<init>();<no-session-id>;2944368993881817090;1647699701045115728;1647699701045116488;reichelt-desktop;1;1
+$1;1647699701245230254;public void defaultpackage.NormalDependency.child12();<no-session-id>;2944368993881817090;1647699701045144138;1647699701245216634;reichelt-desktop;4;3
+$1;1647699701245280413;public void defaultpackage.NormalDependency.child13();<no-session-id>;2944368993881817090;1647699701245276713;1647699701245277603;reichelt-desktop;5;3
+$1;1647699701245287113;public void defaultpackage.NormalDependency.child1();<no-session-id>;2944368993881817090;1647699701045139118;1647699701245284743;reichelt-desktop;3;2
+$1;1647699701245301503;public void defaultpackage.NormalDependency.child2();<no-session-id>;2944368993881817090;1647699701245298353;1647699701245299183;reichelt-desktop;6;2
+$1;1647699701245325033;public void defaultpackage.NormalDependency.child31();<no-session-id>;2944368993881817090;1647699701245321823;1647699701245322733;reichelt-desktop;8;3
+$1;1647699701245330803;public void defaultpackage.NormalDependency.child3();<no-session-id>;2944368993881817090;1647699701245312933;1647699701245328523;reichelt-desktop;7;2
+$1;1647699701245336133;public void defaultpackage.NormalDependency.executeThing();<no-session-id>;2944368993881817090;1647699701045134198;1647699701245333773;reichelt-desktop;2;1
+$1;1647699701245349313;public void defaultpackage.NormalDependency.other();<no-session-id>;2944368993881817090;1647699701245346543;1647699701245347313;reichelt-desktop;9;1
+$1;1647699701245444402;public void defaultpackage.TestMe.testMe();<no-session-id>;2944368993881817090;1647699701044643341;1647699701245440872;reichelt-desktop;0;0
